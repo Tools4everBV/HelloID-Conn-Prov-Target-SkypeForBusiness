@@ -1,0 +1,60 @@
+[
+    {
+      "key": "ComputerName",
+      "type": "input",
+      "templateOptions": {
+        "label": "ComputerName",
+        "placeholder": "localhost",
+        "description": "The name of the server where the SkypeForBusiness software is installed",
+        "required": true
+      }
+    },
+    {
+      "key": "UserName",
+      "type": "input",
+      "templateOptions": {
+        "label": "UserName",
+        "placeholder": "Administrator",
+        "description": "The UserName that has administrative rights to logon to the remote computer and right to manage SkypeForBusiness",
+        "required": true
+      }
+    },
+    {
+      "key": "Password",
+      "type": "input",
+      "templateOptions": {
+        "label": "Password",
+        "type": "password",
+        "description": "The password for the administrative user",
+        "required": true
+      }
+    },
+    {
+      "key": "RegistrarPool",
+      "type": "input",
+      "templateOptions": {
+        "label": "RegistrarPool",
+        "description": "The name of Registrar pool where the user's Skype for Business Server account will be stored.",
+        "required": true
+      }
+    },
+    {
+      "key": "EnterPriseVoiceEnabled",
+      "type": "checkbox",
+      "defaultValue": false,
+      "templateOptions": {
+        "label": "EnterPriseVoiceEnabled",
+        "description": "Allows users to make telephone calls using the Internet rather than using the standard telephone network.",
+        "required": false
+      }
+    },
+    {
+      "key": "ExchangeArchivingPolicy",
+      "type": "input",
+      "templateOptions": {
+        "label": "ExchangeArchivingPolicy",
+        "description": "Indicates where the user's instant messaging sessions are archived",
+        "required": false
+      }
+    }
+  ]
