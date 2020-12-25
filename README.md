@@ -39,7 +39,7 @@ Is remoting is enabled, you should receive an output similiar as in the image be
 
 ![wsman](./assets/wsman.png)
 image-2 - wsman
-
+ 
 When you receive an error message, PSremoting is not properply configured.
 
 ### Configure PSSremoting by GroupPolicy
