@@ -37,7 +37,7 @@ Test-WSMan -ComputerName __ServerName__
 
 Is remoting is enabled, you should receive an output similiar as in the image below. _(image-2 - wsman)_
 
-![wsman](./assets/wsman.png)
+![wsman](https://github.com/Tools4everBV/HelloID-Conn-Prov-Target-SkypeForBusiness/raw/main/assets/wsman.png)
 image-2 - wsman
  
 When you receive an error message, PSremoting is not properply configured.
