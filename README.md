@@ -20,7 +20,7 @@ The connector is not yet tested on a SkypeForBusiness implementation. Therefore,
 - [ ] PowerShell remoting / WinRM is enabled on the server where SkypeForBusiness is installed
 - [ ] Make sure that _Use account data from other systems_ on the 'Account' tab is configured to use 'Microsoft Active Directory'
 
-![AD](./assets/ad.png)
+![AD](https://github.com/Tools4everBV/HelloID-Conn-Prov-Target-SkypeForBusiness/blob/main/assets/ad.png)
 image-1 - ad
 
 ### Supported PowerShell versions
