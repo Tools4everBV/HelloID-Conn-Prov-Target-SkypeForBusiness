@@ -11,10 +11,10 @@ $To = 900
 $Exclusions = @(103, 106, 125) #Numbers that should not be given out again
 
 #Policy & Telephonenumber settings
-$Resistrarpool = 'pss4bfe01.meierijstad.nl'
-$CsDialPlanPolicy = 'Gem_Meierijstad'
-$CsVoicePolicyPolicy = 'HoofdNummer_National'
-$TelPrefix = '+31413381' 
+$Resistrarpool = 'Pool'
+$CsDialPlanPolicy = 'Policy'
+$CsVoicePolicyPolicy = 'Policy'
+$TelPrefix = '+31123123' 
 #
 function get-availablenumber {
     [cmdletbinding()]
