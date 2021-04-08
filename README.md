@@ -1,5 +1,7 @@
 # HelloID-Conn-Prov-Target-SkypeForBusiness
 
+## Function for getting available number is currently too fast, resulting in the same value for multiple people. Please use with care, this needs some configuration 
+
 ## This is a work in progress
 
 The _'HelloID-Conn-Target-SkypeForBusiness'_ connector uses a _Skype For Business On-Premise' installation. This means the connector also needs to be executed 'on-premises'. Make sure you have 'Windows PowerShell 5.1' installed on the server where the 'HelloID agent and provisioning agent' are running, and that the 'Execute on-premises' switch is toggled.
