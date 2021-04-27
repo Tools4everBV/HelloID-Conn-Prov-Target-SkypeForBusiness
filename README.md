@@ -88,3 +88,6 @@ Grant-CsExternalAccessPolicy -Identity $Using:account.userPrincipalName -PolicyN
 - Grant-CSExternalAccessPolicyName
 
 For the above cmdlets, input is required from the customer.
+
+# HelloID Docs
+The official HelloID documentation can be found at: https://docs.helloid.com/
