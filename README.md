@@ -1,5 +1,11 @@
 # HelloID-Conn-Prov-Target-SkypeForBusiness
 
+| :information_source: Information |
+|:---------------------------|
+| This repository contains the connector and configuration code only. The implementer is responsible to acquire the connection details such as username, password, certificate, etc. You might even need to sign a contract or agreement with the supplier before implementing this connector. Please contact the client's application manager to coordinate the connector requirements.       |
+
+<br />
+
 ## Function for getting available number is currently too fast, resulting in the same value for multiple people. Please use with care, this needs some configuration 
 
 ## This is a work in progress
